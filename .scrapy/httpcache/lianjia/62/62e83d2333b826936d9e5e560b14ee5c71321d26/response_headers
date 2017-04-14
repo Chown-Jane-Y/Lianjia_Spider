@@ -1,0 +1,12 @@
+Set-Cookie: select_city=310000; Domain=.lianjia.com; Path=/
+Set-Cookie: cityCode=sh; Domain=.lianjia.com; Path=/
+Set-Cookie: lianjia_uuid=189124d4-8a57-4266-9459-9f53e33593bc; Domain=.lianjia.com; Expires=Wed, 13-Apr-2022 01:30:35 GMT; Path=/
+Set-Cookie: select_city=310000; Domain=.lianjia.com; Path=/
+Set-Cookie: cityCode=sh; Domain=.lianjia.com; Path=/
+Set-Cookie: lianjia_uuid=b01c7109-ad8e-40d0-877c-0c2ca324711c; Domain=.lianjia.com; Expires=Wed, 13-Apr-2022 01:30:35 GMT; Path=/
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: Tengine
+Content-Type: text/html;charset=UTF-8
+Date: Fri, 14 Apr 2017 01:30:35 GMT
+Content-Language: en
