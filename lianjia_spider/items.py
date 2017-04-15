@@ -21,7 +21,7 @@ class LianjiaSpiderItem(scrapy.Item):
     room_type = scrapy.Field()      # 户型
     floor = scrapy.Field()          # 楼层
     direction = scrapy.Field()      # 房屋朝向
-    subway_station = scrapy.Field   # 临近地铁站
+    subway_station = scrapy.Field() # 临近地铁站
     distance = scrapy.Field()       # 距地铁站距离
     built_year = scrapy.Field()     # 建造时间
     rental = scrapy.Field()         # 租金

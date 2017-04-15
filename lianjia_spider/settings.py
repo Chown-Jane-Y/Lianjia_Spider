@@ -64,9 +64,10 @@ ROBOTSTXT_OBEY = True
 
 # Configure item pipelines
 # See http://scrapy.readthedocs.org/en/latest/topics/item-pipeline.html
-#ITEM_PIPELINES = {
-#    'lianjia_spider.pipelines.LianjiaSpiderPipeline': 300,
-#}
+ITEM_PIPELINES = {
+   # 'lianjia_spider.pipelines.LianjiaSpiderPipeline': 300,
+   'lianjia_spider.mysql_pipelines.pipelines.LianjiaSpiderPipeline': 1,
+}
 
 # Enable and configure the AutoThrottle extension (disabled by default)
 # See http://doc.scrapy.org/en/latest/topics/autothrottle.html
