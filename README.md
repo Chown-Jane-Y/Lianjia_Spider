@@ -8,6 +8,7 @@
 
 ### 数据表定义
 本次一共采集了20个字段，`Item`定义如下图所示：
+
 ![item](http://i1.piimg.com/588729/e57e9d0060a0669f.png)
 
 
@@ -32,6 +33,7 @@
 ### 动态数据
 
 因为经纬度调用的是百度地图API，涉及到动态数据，所以把Selenium和Scrapy结合，作为中间件，`middlewares`定义如下：
+
 ![selenium](http://i1.piimg.com/588729/88f39e9ff0d04af9.png)
 
 
