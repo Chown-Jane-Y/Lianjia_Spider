@@ -8,7 +8,7 @@
 
 ### 数据表定义
 本次一共采集了20个字段，`Item`定义如下图所示：
-![img1](./1492261324302.png)
+![item](http://i1.piimg.com/588729/e57e9d0060a0669f.png)
 
 
 
@@ -32,7 +32,7 @@
 ### 动态数据
 
 因为经纬度调用的是百度地图API，涉及到动态数据，所以把Selenium和Scrapy结合，作为中间件，`middlewares`定义如下：
-![Alt text](./1492261592197.png)
+![selenium](http://i1.piimg.com/588729/88f39e9ff0d04af9.png)
 
 
 
@@ -51,7 +51,7 @@
 
 用结巴分词和`wordcloud`对房源的标题进行分析，生成词云
 
-![Alt text](./链家词云.png)
+![wordcloud](http://i1.piimg.com/588729/b90bd42413c50ca5.png)
 
 
 

@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="615b0f89-4fab-4f95-91b3-c9751f09e9fd" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/my_copy/lianjia_copy.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/my_copy/pipelines_copy.py" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/lianjia_spider.iml" afterPath="$PROJECT_DIR$/.idea/lianjia_spider.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lianjia_spider/items.py" afterPath="$PROJECT_DIR$/lianjia_spider/items.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lianjia_spider/mysql_pipelines/pipelines.py" afterPath="$PROJECT_DIR$/lianjia_spider/mysql_pipelines/pipelines.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lianjia_spider/mysql_pipelines/sql.py" afterPath="$PROJECT_DIR$/lianjia_spider/mysql_pipelines/sql.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lianjia_spider/settings.py" afterPath="$PROJECT_DIR$/lianjia_spider/settings.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lianjia_spider/spiders/lianjia.py" afterPath="$PROJECT_DIR$/lianjia_spider/spiders/lianjia.py" />
-    </list>
+    <list default="true" id="615b0f89-4fab-4f95-91b3-c9751f09e9fd" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -499,7 +488,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1924" height="1056" extended-state="1" />
+    <frame x="-8" y="-8" width="1924" height="1056" extended-state="0" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287483" sideWeight="0.30974025" order="7" side_tool="true" content_ui="tabs" />
