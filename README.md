@@ -112,7 +112,7 @@
 ### 地图上的房源分布
 
 (注：由于时间关系，以下**地图热力图**都是在BDP个人版进行分析)
-![Markdown](http://i1.piimg.com/588729/8cab363595712a09.png)
+![Markdown](http://i1.piimg.com/588729/8cab363595712a09t.jpg)
 
 
 
@@ -131,8 +131,7 @@
 
 将地图放大一些：
 
-![Markdown](http://i1.piimg.com/588729/faba4824e8ef4d4c.png)
-
+![Markdown](http://i1.piimg.com/588729/faba4824e8ef4d4ct.jpg)
 
 
 
