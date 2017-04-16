@@ -319,7 +319,7 @@
 
 **计算公式：房价租金比=商品房市价总值/该房出租月收入**
 
-![Markdown](http://i1.piimg.com/588729/0afa9da014d61b20.png)
+![Markdown](http://i1.piimg.com/588729/0afa9da014d61b20s.png)
  
 
 
