@@ -21,7 +21,7 @@ class LianjiaSpider(scrapy.Spider):
     def parse(self, response):      # 接收start_requests传来的response
         max_page = 3183      # 最多3183页
         bashurl = str(response.url)     # 就是http://sh.lianjia.com/zufang/
-        for page_num in range(1, int(max_page)+1):
+        for page_num in range(1500, 2500):
             url = bashurl + 'd' + str(page_num)
             print('=====正在抓第' + str(page_num) + '页===========')
             yield Request(url, callback=self.get_house_url)      # 请求每一页的数据，给get_name处理
